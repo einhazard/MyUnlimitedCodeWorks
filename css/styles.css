@@ -443,6 +443,19 @@ mark,
   list-style: none;
 }
 
+.mylist {
+  padding-left: 0;
+  list-style: none;
+}
+
+.mylist-item {
+	 
+}
+.mylist-item-footer {
+	font-size: 15px;
+	font-weight: bold;
+}
+
 .list-inline {
   padding-left: 0;
   list-style: none;
@@ -10108,7 +10121,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 28px;
 }
 
 section.resume-section {
@@ -10137,3 +10150,5 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+ 
